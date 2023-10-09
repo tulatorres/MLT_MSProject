@@ -30,7 +30,7 @@
 
 
 ### Shapefiles 
-[Click Here] (https://drive.google.com/drive/folders/1KIKdut_2IAA5oYVXA2AJeiy3ihdRjDR2) to access the Google Drive folder with the shapefiles
+[Click Here](https://drive.google.com/drive/folders/1KIKdut_2IAA5oYVXA2AJeiy3ihdRjDR2) to access the Google Drive folder with the shapefiles
 
 ### Shapefile Information
 Shapefiles include the following:
